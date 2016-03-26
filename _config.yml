@@ -1,0 +1,28 @@
+name: awake
+favicon: null
+layout_spectrum: 0.6452631780412048
+typography_spectrum: 0.8863157632295042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.28843755391426384
+  lightness: 0.7609667396172881
+  saturation: 0.11262482521124184
+  rhythmicContrast: 0.5651881981175393
+purpose: []
